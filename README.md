@@ -1,21 +1,21 @@
-### Hi there 👋, I'm Junhai
+### Hi there 👋, 我是俊海
 
 ![Visitor Count](https://profile-counter.glitch.me/Sword932/count.svg)  
-*Thank you for visiting! 😄*
+*感谢您的访问！😄*
 
 ---
 
-#### 🔍 **About Me**
+#### 🔍 **关于我**
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m continuously learning everything I like.
-- 💬 Feel free to ask me about **Java** and **Python**.
-- 📫 Reach me at: [2389068430@qq.com](mailto:2389068430@qq.com)
-- 😄 Check out my CSDN blog: [here](https://blog.csdn.net/weixin_50672677?type=blog)
+- 🔭 我目前正在开发一些有趣的项目。
+- 🌱 我持续学习我感兴趣的所有内容。
+- 💬 欢迎向我咨询**Java**和**Python**相关的问题。
+- 📫 联系我：[2389068430@qq.com](mailto:2389068430@qq.com)
+- 😄 查看我的CSDN博客：[这里](https://blog.csdn.net/weixin_50672677?type=blog)
 
 ---
 
-#### 🛠️ **Skills**
+#### 🛠️ **技能**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -26,40 +26,34 @@
 
 ---
 
-#### 📈 **GitHub Stats**
+## 📈 **今年汇总 ✨**
 
-![Junhai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sword932&show_icons=true&theme=transparent&hide_border=true)
-
----
-
-#### 📚 **Top Languages**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sword932&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Sword932&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sword932&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ---
 
-#### 🚀 **Featured Projects**
+#### 🚀 **精选项目**
 
-##### [Project One](https://github.com/Sword932/project-one)
-*A brief description of Project One, highlighting the technologies used and its purpose.*
+##### [项目一](https://github.com/Sword932/project-one)
+*项目一的简要描述，突出所使用的技术和项目目的。*
 
-##### [Project Two](https://github.com/Sword932/project-two)
-*A brief description of Project Two, highlighting the technologies used and its purpose.*
+##### [项目二](https://github.com/Sword932/project-two)
+*项目二的简要描述，突出所使用的技术和项目目的。*
 
-##### [Project Three](https://github.com/Sword932/project-three)
-*A brief description of Project Three, highlighting the technologies used and its purpose.*
+##### [项目三](https://github.com/Sword932/project-three)
+*项目三的简要描述，突出所使用的技术和项目目的。*
 
 ---
 
-#### 📫 **Connect with Me**
+#### 📫 **联系我**
 
 - 📧 [2389068430@qq.com](mailto:2389068430@qq.com)
-- 📖 [CSDN Blog](https://blog.csdn.net/weixin_50672677?type=blog)
+- 📖 [CSDN博客](https://blog.csdn.net/weixin_50672677?type=blog)
 
 ---
 
-#### 🏆 **Achievements**
+#### 🏆 **成就**
 
-![Project One](https://github-readme-stats.vercel.app/api/pin/?username=Sword932&repo=project-one&theme=transparent)
+![项目一](https://github-readme-stats.vercel.app/api/pin/?username=Sword932&repo=project-one&theme=transparent)
 
 ---
